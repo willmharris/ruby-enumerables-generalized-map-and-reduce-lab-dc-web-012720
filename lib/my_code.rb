@@ -1,2 +1,2 @@
-map(array)
+def map(array)
 end 
